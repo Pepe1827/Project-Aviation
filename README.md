@@ -1,24 +1,21 @@
-# Phase 1 Project Template - Minimum Viable Product (MVP)
+# Aircraft Analysis
 
 ![blueprint](images/blueprint.png)
 
-This repository is like a blueprint, providing structure for your first End of Phase Project. We suggest you base your Phase 1 project off of this repository so you can focus less on formatting and organization, and more on the _analysis and communication skills_ that will support your progress through the course. This template is designed to make your project portfolio-ready in order to impress the future employers who will review it. 
+Author : Jose Ortega
 
-## Repository Contents
+## Overview
 
-Below is a list of the contents of this repository - instructions for using them are in the next section.
+In this project, I will use data cleaning, analysis and visualizations in order to generate insights for a business stakeholder.
 
-- `README.md`: The README for this repo branch explaining it's contents - you're reading it now
-- `TEMPLATE_README.md`: An example of a project README that provides a brief overview of your whole project
-- `dsc-phase1-project-template.ipynb`: A starter Jupyter Notebook with headings, code examples and guiding questions
-- `DS_Project_Presentation_Template.pdf`: A starter slide deck presenting your project - here is an [editable version](https://docs.google.com/presentation/d/1PaiH1bleXnhiPjTPsAXQSiAK0nkaRlseQIr_Yb-0mz0/copy)
-- `zippedData` folder: A folder for the data you reference with your code
-- `images` folder: A folder for the images you reference in your files 
-- `.gitignore`: A hidden file that tells git to not track certain files and folders
+## Business Problem
 
-## Instructions For Using This Repository
+My company is expanding in to new industries to diversify its portfolio. Specifically, they are interested in buying and operating aircrafts for commercial and private use, but do not know anything about the potential risks of aircraft. My task is to analyse the data and come up with three business recommendations.
 
-### Fork This Repository
+## The Data
+
+The data used in this project is from the NTSB (National Transportation and Safety Board), that contains information from 1962 and later about civil aviation accidents and selected incidents within tha United States, its territories and possessions, and international waters. Some of the important variables in the dataset are : Aircraft damage, category, make, model, number of engines, engine type, injury severity and total injuries.
+The original dataset can be found here 
 
 **For a group project**, have only one team member do these steps:
 
