@@ -20,15 +20,20 @@ The original dataset can be found here __[link text](https://www.kaggle.com/data
 
 ## Methods
 
-I this project we use descriptive analysis, first we understand/inspect the dataset given, then we clean and prepare the data (basically we get rid of colummns that we are not going to use and we also deal with the missing values), once the data is cleaned I will analyze the data , interpret the results and communicate the findings.
+In this project we use descriptive analysis, first we understand/inspect the dataset given, then we clean and prepare the data (basically we get rid of colummns that we are not going to use and we also deal with the missing values), once the data is cleaned I will analyze the data , interpret the results and communicate the findings.
 
 
 ### Results
+![example](images/Visualization_1.jpg)
 
 
 ### Conclusions
 
 ### For More Information
+
+Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project-template.ipynb) and our [presentation]
+
+For any additional questions, please contact Jose Ortega at [joseorteorbe@gmail.com](mailto:joseorteorbe@gmail.com) 
 
 
 ### Repository Structure
