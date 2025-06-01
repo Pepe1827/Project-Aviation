@@ -24,7 +24,7 @@ In this project we use descriptive analysis, first we understand/inspect the dat
 
 
 ### Results
-![example](images/Visualization_1.jpg)
+![example](images/Visualization_1.png)
 
 
 ### Conclusions
