@@ -67,11 +67,12 @@ For any additional questions, please contact Jose Ortega at [joseorteorbe@gmail.
 
 ## Repository Structure
 
+
 ├── data
 ├── images
 ├── .gitignore
-├── Risk_Aviation_Project.pdf
 ├── README.md
+├── Risk_Aviation_Project.pdf
 └── Risk_Aviation_Project.ipynb
 
 
