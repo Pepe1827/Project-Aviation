@@ -60,19 +60,19 @@ This project leads to three recommendations:
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project-template.ipynb) and our [presentation]
+Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project-template.ipynb) and our [presentation](./Risk_Aviation_Project.pdf)
 
 For any additional questions, please contact Jose Ortega at [joseorteorbe@gmail.com](mailto:joseorteorbe@gmail.com) 
 
 
 ## Repository Structure
 
-
+```
 ├── data
 ├── images
 ├── .gitignore
 ├── README.md
 ├── Risk_Aviation_Project.pdf
 └── Risk_Aviation_Project.ipynb
-
+```
 
