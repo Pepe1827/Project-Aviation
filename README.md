@@ -2,7 +2,7 @@
 
 ![example](images/airplane1.jpg)
 
-Author : Jose Ortega
+Author : Jose Ortega O.
 
 ## Overview
 
